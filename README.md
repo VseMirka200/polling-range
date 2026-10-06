@@ -1,14 +1,6 @@
-# 🗳️ Избирательный полигон
-
-<p align="center">
-  <a href="https://vsemirka200.github.io/polling-range.io/"><img alt="Открыть тренажёр" src="https://img.shields.io/badge/-ОТКРЫТЬ-555555?style=for-the-badge"></a>&nbsp;
-  <a href="https://github.com/VseMirka200/polling-range.io/archive/refs/heads/main.zip"><img alt="Исходники" src="https://img.shields.io/badge/-ИСХОДНИКИ-2468dc?style=for-the-badge&logo=github"></a>&nbsp;
-  <a href="https://github.com/VseMirka200/polling-range.io/issues/new"><img alt="Сообщить об ошибке" src="https://img.shields.io/badge/-ОШИБКА-dc3545?style=for-the-badge&logo=github"></a>
-</p>
+<h1 align="center">🗳️ Избирательный полигон</h1>
 
 **Избирательный полигон** — интерактивный браузерный тренажёр по основам избирательного права. Проект помогает в игровой форме изучать термины, порядок голосования, права участников выборов и типичные нарушения на избирательном участке.
-
-Приложение размещено как статический сайт GitHub Pages и не требует установки зависимостей, сборки или серверной части.
 
 ## Возможности
 
@@ -61,20 +53,9 @@
 5. Выполните задания и переходите к следующим уровням.
 6. Нажмите кнопку с изображением книги, чтобы открыть справку.
 
-## Структура проекта
-
-- `docs/index.html` — основное приложение, публикуемое через GitHub Pages;
-- `README.md` — описание проекта;
-- `LICENSE` — лицензия MIT;
-- `CONTRIBUTING`, `CODE_OF_CONDUCT`, `SECURITY` — правила сопровождения проекта.
-
 ## Официальные источники
 
 Материалы тренажёра основаны на информации из открытых официальных источников:
 
 - ЦИК России — `https://cikrf.ru`;
 - РЦОИТ при ЦИК России — `https://www.rcoit.ru`.
-
-## Обратная связь
-
-Для ошибок и предложений используйте [GitHub Issues](https://github.com/VseMirka200/polling-range.io/issues/new).
